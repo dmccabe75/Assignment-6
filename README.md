@@ -1,2 +1,2 @@
-# Assignment-6
-API Homework
+# Weather-Analysis
+Using the OpenWeatherMap API to analyze weather trends 
